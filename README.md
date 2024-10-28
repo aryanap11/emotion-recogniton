@@ -1,3 +1,6 @@
+# Link to app :
+https://emotion-recogniton-app.streamlit.app/
+
 # Emotion Recognition using Convolutional Neural Networks
 
 This project is a facial emotion recognition app using a Convolutional Neural Network (CNN) model trained on the FER2013 dataset. Users can upload an image, and the app will identify the emotion displayed.
